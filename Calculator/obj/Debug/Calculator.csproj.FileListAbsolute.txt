@@ -1,0 +1,19 @@
+c:\users\domiz\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\domiz\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\domiz\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\domiz\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\domiz\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\domiz\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\domiz\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\domiz\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\domiz\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Dominik Private\prjects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Dominik Private\prjects\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Dominik Private\prjects\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Dominik Private\prjects\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Dominik Private\prjects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Dominik Private\prjects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Dominik Private\prjects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Dominik Private\prjects\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Dominik Private\prjects\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Dominik Private\prjects\Calculator\Calculator\obj\Debug\Calculator.Main.resources
